@@ -1,5 +1,3 @@
 # Slider
 
-# Slider
 
-# slider
